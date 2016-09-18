@@ -88,3 +88,13 @@ Botões
 #Destaques
 .mdl-button--primary # cor primária
 .mdl-button--accent # cor destaque
+
+
+Cards
+.mdl-card # div container
+.mdl-card__title # div com título
+.mdl-card__title-text # span hx com o título
+.mdl-card__supporting-text # div com texto
+.mdl-card--border # div com borda
+.mdl-card__actions # local onde ficam botões, área de ação
+.mdl-card__menu # div de menu e botões parte de cima de cartão
