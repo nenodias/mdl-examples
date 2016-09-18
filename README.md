@@ -98,3 +98,16 @@ Cards
 .mdl-card--border # div com borda
 .mdl-card__actions # local onde ficam botões, área de ação
 .mdl-card__menu # div de menu e botões parte de cima de cartão
+
+
+Inputs
+.mdl-textfield # div container input e label
+.mdl-js-textfield # div container input e label
+.mdl-textfield--floating-label # div container, fazer flutuar o label sobre o input quando o mesmo estiver com valores
+
+.mdl-textfield__input #tag input
+.mdl-textfield__label # tag label
+.mdl-textfield__error #span com mensagem de erro quando o input não bate com o attributo pattern passado
+
+.mdl-textfield--expandable # div que engloba a div superior ao input
+.mdl-textfield__expandable-holder # div que engloba input escondido
