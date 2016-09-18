@@ -120,3 +120,8 @@ Tabelas
 .mdl-data-table--selectable # classe para a tabela ser selecionável, quandop selecionada a tr fica com a classe is-selected
 
 .mdl-data-table__cell--non-numeric #td ou th que não são numéricas e tem o alinhamento à esquerda
+
+
+Tooltip
+.mdl-tooltip #base do tooltip tag span usar o for com id do objeto que receberá o tooltip quando houver um evento de hover
+.mdl-tooltip--large # classe adicional para um tooltip maior
