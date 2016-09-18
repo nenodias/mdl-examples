@@ -125,3 +125,13 @@ Tabelas
 Tooltip
 .mdl-tooltip #base do tooltip tag span usar o for com id do objeto que receberá o tooltip quando houver um evento de hover
 .mdl-tooltip--large # classe adicional para um tooltip maior
+
+Menus
+.mdl-menu #classe base
+.mdl-js-menu #classe base
+
+.mdl-menu--bottom-right # abre para baixo e no lado direito
+.mdl-menu--top-left # abre para cima e no lado esquerdo
+.mdl-menu--top-right # abre para cima e no lado direito
+
+.mdl-menu__item # item do menu
