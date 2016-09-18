@@ -111,3 +111,12 @@ Inputs
 
 .mdl-textfield--expandable # div que engloba a div superior ao input
 .mdl-textfield__expandable-holder # div que engloba input escondido
+
+
+Tabelas
+.mdl-data-table #classe padrão para tabela
+.mdl-js-data-table #classe padrão para tabela
+
+.mdl-data-table--selectable # classe para a tabela ser selecionável, quandop selecionada a tr fica com a classe is-selected
+
+.mdl-data-table__cell--non-numeric #td ou th que não são numéricas e tem o alinhamento à esquerda
