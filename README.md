@@ -69,3 +69,11 @@ Classe para adicionar em uma logo
 
 Classe para a tag ul pai dos links do rodapé
 .mdl-mini-footer--link-list
+
+Badges com atributo data-badge="4" mostrará um badge com número 4 (mostra até 3 caractéres)
+.mdl-badge
+ex: <span class="mdl-badge" data-badge="4">Inbox</span>
+
+Ícones
+Usar underline para os nomes com espaço
+.material-icons
