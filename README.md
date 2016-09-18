@@ -77,3 +77,14 @@ ex: <span class="mdl-badge" data-badge="4">Inbox</span>
 Ícones
 Usar underline para os nomes com espaço
 .material-icons
+
+Botões
+.mdl-button # Classe base do botão
+.mdl-js-button # Classe base do botão
+.mdl-js-ripple-effect # Efeito ao clique
+.mdl-button--fab # Botão redondo
+.mdl-button--raised # botão "levantado" # parecer um botão com sombra, etc
+.mdl-button--icon # para usar um ícone interno
+#Destaques
+.mdl-button--primary # cor primária
+.mdl-button--accent # cor destaque
